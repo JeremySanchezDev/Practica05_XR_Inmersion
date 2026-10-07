@@ -1,0 +1,40 @@
+=== Bakeo 2026-10-06 21:42:07 ===
+Escena: Assets/Practica5/Scenes/HabitacionXR.unity
+Tiempo de bakeo: 38.89 s
+Lightmapper: ProgressiveGPU
+Resolucion: 20 texels/u | Tamaño max: 1024 | Padding: 2
+Muestras directas/indirectas/entorno: 32/256/128 | Rebotes: 2
+Direccionalidad: NonDirectional | Compresion: NormalQuality | AO: True
+Lightmaps generados: 1
+  [0] Assets/Practica5/Scenes/HabitacionXR/Lightmap-0_comp_light.exr (512x512)
+
+=== Bakeo 2026-10-06 21:44:42 ===
+Escena: Assets/Practica5/Scenes/HabitacionXR.unity
+Tiempo de bakeo: 12.99 s
+Lightmapper: ProgressiveGPU
+Resolucion: 20 texels/u | Tamaño max: 1024 | Padding: 2
+Muestras directas/indirectas/entorno: 32/256/128 | Rebotes: 2
+Direccionalidad: NonDirectional | Compresion: NormalQuality | AO: True
+Lightmaps generados: 1
+  [0] Assets/Practica5/Scenes/HabitacionXR/Lightmap-0_comp_light.exr (512x512)
+
+=== Bakeo 2026-10-07 00:10:13 ===
+Escena: Assets/Scenes/Practica05.unity
+Tiempo de bakeo: 12.69 s
+Lightmapper: ProgressiveGPU
+Resolucion: 20 texels/u | Tamaño max: 1024 | Padding: 2
+Muestras directas/indirectas/entorno: 32/256/128 | Rebotes: 2
+Direccionalidad: NonDirectional | Compresion: NormalQuality | AO: True
+Lightmaps generados: 1
+  [0] Assets/Scenes/Practica05/Lightmap-0_comp_light.exr (512x512)
+
+=== Bakeo 2026-10-07 00:10:57 ===
+Escena: Assets/Scenes/Practica05.unity
+Tiempo de bakeo: 29.43 s
+Lightmapper: ProgressiveGPU
+Resolucion: 20 texels/u | Tamaño max: 1024 | Padding: 2
+Muestras directas/indirectas/entorno: 32/256/128 | Rebotes: 2
+Direccionalidad: NonDirectional | Compresion: NormalQuality | AO: True
+Lightmaps generados: 1
+  [0] Assets/Scenes/Practica05/Lightmap-0_comp_light.exr (512x512)
+

@@ -1,0 +1,12 @@
+# Unity: assets YAML con fin de línea tal cual, binarios sin diff
+*.unity  -text merge=unityyamlmerge
+*.prefab -text merge=unityyamlmerge
+*.asset  -text merge=unityyamlmerge
+*.mat    -text
+*.meta   -text
+*.exr  binary
+*.png  binary
+*.wav  binary
+*.pdf  binary
+*.giparams binary
+*.lighting -text

@@ -1,0 +1,5 @@
+Plataforma: WindowsEditor
+Dispositivo: Vivobook_ASUSLaptop M1605YA_M1605YA (ASUSTeK COMPUTER INC.) | GPU: AMD Radeon (TM) Graphics
+Muestras: 42
+FPS promedio: 104.2
+FPS minimo: 10.1
